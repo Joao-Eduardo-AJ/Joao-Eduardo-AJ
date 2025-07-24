@@ -42,6 +42,6 @@
 
 <div>
   <p align="justify">
-    I am a sociable, determined, and consistent front-end developer who prioritizes personal growth. I seek to understand people and the environment around me. I have numerous hobbies, including reading and sports. Since the beginning of       2022, I have been studying development-related content daily, balancing my degree in analysis and systems development with independent studies and integrating them as much as possible.
+    Frontend Engineer with 4+ years of experience in building responsive and scalable web applications using Next.js, React, TypeScript and Webflow. Specialized in performance optimization, UX/UI integration, component design systems, and end-to-end testing with Cypress and Jest. Proven ability to improve SEO, accessibility, and cross-browser performance.
   </p> 
 </div>
